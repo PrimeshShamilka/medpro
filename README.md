@@ -10,7 +10,7 @@ $ ./Main
 
 ## Used libraries
 
-libconfig - library for processing structured configuration files
+libconfig - library for processing structured configuration files\
 openssl - library for applications that secure communications over computer networks
 
 ### Happy coding!.
